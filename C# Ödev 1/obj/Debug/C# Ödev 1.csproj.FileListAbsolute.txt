@@ -1,0 +1,8 @@
+C:\Users\nizip\Masaüstü\C# Ödev\Odev-1\C# Ödev 1\C# Ödev 1\bin\Debug\C# Ödev 1.exe.config
+C:\Users\nizip\Masaüstü\C# Ödev\Odev-1\C# Ödev 1\C# Ödev 1\bin\Debug\C# Ödev 1.exe
+C:\Users\nizip\Masaüstü\C# Ödev\Odev-1\C# Ödev 1\C# Ödev 1\bin\Debug\C# Ödev 1.pdb
+C:\Users\nizip\Masaüstü\C# Ödev\Odev-1\C# Ödev 1\C# Ödev 1\obj\Debug\C# Ödev 1.csproj.AssemblyReference.cache
+C:\Users\nizip\Masaüstü\C# Ödev\Odev-1\C# Ödev 1\C# Ödev 1\obj\Debug\C# Ödev 1.csproj.CoreCompileInputs.cache
+C:\Users\nizip\Masaüstü\C# Ödev\Odev-1\C# Ödev 1\C# Ödev 1\obj\Debug\C# Ödev 1.exe
+C:\Users\nizip\Masaüstü\C# Ödev\Odev-1\C# Ödev 1\C# Ödev 1\obj\Debug\C# Ödev 1.pdb
+C:\Users\nizip\Masaüstü\C# Ödev\Odev-1\C# Ödev 1\C# Ödev 1\obj\Debug\C# Ödev 1.exe.config
